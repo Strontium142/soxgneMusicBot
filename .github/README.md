@@ -1,4 +1,4 @@
-<img src="https://te.legra.ph/file/ff75c83fc74a542157fe3.jpg" align="right" width="200" height="200"/>
+<img src="https://te.legra.ph/file/36ed0098d4549dc571291.jpg" align="right" width="200" height="200"/>
 
 # soxgne Music Bot <img src="https://img.shields.io/github/v/release/strontium142/soxgneMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
