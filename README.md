@@ -1,6 +1,7 @@
 <img src="https://te.legra.ph/file/e770f68dd1bcd1c92cb41.jpg" align="right" width="200" height="200"/>
 
-#Soxgne Music Bot 
+# Soxgne Music <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+
 [Soxgne Music Bot](https://github.com/strontium142/soxgneMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
